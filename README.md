@@ -1,4 +1,6 @@
 # OPENING--AND-CLOSING
+### Name - Jai Surya R
+### Register Number - 212223230084
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
